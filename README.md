@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @volkanyenibagci
-- 👀 I’m interested latest technology and development tools.
-- 📫 Yo can reach me also LinkedIn... https://tr.linkedin.com/in/volkan-yenibagci
+# Hi there, I'm Volkan Yenibagci! 👋
 
-<!---
-volkanyenibagci/volkanyenibagci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and contributing to open-source projects.
+
+## About Me
+
+- 🔭 I’m currently working on [Gıda Güvenliği Bilgi Sistemi]
+- 🌱 I’m currently learning [Kafka,Kubernetes,...]
+- 👯 I’m looking to collaborate on [.Net Core,React,Angular projects...]
+- 💬 Ask me about [.Net Palatforms]
+- 📫 How to reach me: [Linkedin below]
+- ⚡ Fun fact: [Pokemon card collector]
+
+## Skills
+
+- **Programming Languages and Techs:** [C#, Javascript,Sql,Typescript,Html,Css,Assembly]
+- **Frameworks and Libraries:** [React,.Net Core]
+- **Tools and Platforms:** [VS,Vs Code,Dbeaver,Postman,SoapUI,...]
+
+## Connect with Me
+
+- [LinkedIn](https://tr.linkedin.com/in/volkan-yenibagci)
+
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just want to say hi! 😊
