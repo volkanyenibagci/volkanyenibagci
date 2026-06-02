@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## About Me
 
-- 🔭 I’m currently working on [Gıda Güvenliği Bilgi Sistemi]
-- 🌱 I’m currently learning [Kafka,Kubernetes,...]
 - 👯 I’m looking to collaborate on [.Net Core,React,Angular projects...]
 - 💬 Ask me about [.Net Palatforms]
 - 📫 How to reach me: [Linkedin below]
